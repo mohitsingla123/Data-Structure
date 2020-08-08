@@ -9,3 +9,5 @@ Code: [Java Code](https://github.com/mohitsingla123/Data-Structure/blob/master/S
 Code: [Java Code](https://github.com/mohitsingla123/Data-Structure/blob/master/Search%20Algorithm/BinarySearch.java)  ,  [Python Code](https://github.com/mohitsingla123/Data-Structure/blob/master/Search%20Algorithm/BinarySearch.py)
 
 3. Jump Search, Time Complaxity : O(sqrt(n)) , Code: [java](https://github.com/mohitsingla123/Data-Structure/blob/master/Search%20Algorithm/JumpSearch.java)  ,  [Python Code](https://github.com/mohitsingla123/Data-Structure/blob/master/JumpSearch.py#L2)
+
+4. Exponential Search
