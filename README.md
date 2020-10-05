@@ -20,3 +20,5 @@ Code: [Java Code](https://github.com/mohitsingla123/Data-Structure/blob/master/S
 2. Bubble Sort, Time Complaxity : O(n^2), Space Complaxity  : 1,   Code  :   [Java](https://github.com/mohitsingla123/Data-Structure/blob/master/Sorting%20Algorithm/Bubble_sort.java) ,   [Python](https://github.com/mohitsingla123/Data-Structure/blob/master/Sorting%20Algorithm/bubble_sort.py)
 
 3. Insertion Sort,  Time Complaxity : O(n^2),  Space Complaxity   : 1,   Code  :   [Java](https://github.com/mohitsingla123/Data-Structure/blob/master/Sorting%20Algorithm/InsertionSort.java) ,   [Python](https://github.com/mohitsingla123/Data-Structure/blob/master/Sorting%20Algorithm/insertion_sort.py)
+
+4. Quick Sort
