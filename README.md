@@ -21,4 +21,4 @@ Code: [Java Code](https://github.com/mohitsingla123/Data-Structure/blob/master/S
 
 3. Insertion Sort,  Time Complaxity : O(n^2),  Space Complaxity   : 1,   Code  :   [Java](https://github.com/mohitsingla123/Data-Structure/blob/master/Sorting%20Algorithm/InsertionSort.java) ,   [Python](https://github.com/mohitsingla123/Data-Structure/blob/master/Sorting%20Algorithm/insertion_sort.py)
 
-4. Quick Sort
+4. Quick Sort, Code  :  [python](https://github.com/mohitsingla123/Data-Structure/blob/master/Sorting%20Algorithm/quick_sort.py)
