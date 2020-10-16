@@ -21,6 +21,6 @@ Code: [Java Code](https://github.com/mohitsingla123/Data-Structure/blob/master/S
 
 3. Insertion Sort,  Time Complaxity : O(n^2),  Space Complaxity   : 1,   Code  :   [Java](https://github.com/mohitsingla123/Data-Structure/blob/master/Sorting%20Algorithm/InsertionSort.java) ,   [Python](https://github.com/mohitsingla123/Data-Structure/blob/master/Sorting%20Algorithm/insertion_sort.py)
 
-4. Quick Sort, Time Complaxity  :  ,  Code  :  [python](https://github.com/mohitsingla123/Data-Structure/blob/master/Sorting%20Algorithm/quick_sort.py) ,  [Java Code]()
+4. Quick Sort, Time Complaxity  : O(n*log(n))  ,  Code  :  [python](https://github.com/mohitsingla123/Data-Structure/blob/master/Sorting%20Algorithm/quick_sort.py) ,  [Java Code]()
 
-5. Merge Sort,  Code  : [Python](https://github.com/mohitsingla123/Data-Structure/blob/master/Sorting%20Algorithm/merge_sort.py) ,  [Java Code]()
+5. Merge Sort,  Time Complaxity :  O(n*log(n))  , Code  : [Python](https://github.com/mohitsingla123/Data-Structure/blob/master/Sorting%20Algorithm/merge_sort.py) ,  [Java Code]()
